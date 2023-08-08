@@ -12,13 +12,13 @@
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/souravkl11/Baileys.git",
     "@whiskeysockets/baileys": "6.4.0",
-    "chalk": "^5.0.1",
+    "chalk": "^5.3.0",
     "crypto-js": "^4.1.1",
-    "express": "^4.18.1",
+    "express": "^4.18.2",
     "pastebin-js": "^1.0.6",
     "path": "^0.12.7",
-    "pino": "^8.1.0",
-    "qrcode": "^1.5.0",
-    "socket.io": "^4.5.1"
+    "pino": "^8.15.0",
+    "qrcode": "^1.5.3",
+    "socket.io": "^4.7.2"
   }
 }
