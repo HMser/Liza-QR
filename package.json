@@ -13,7 +13,7 @@
     "@adiwajshing/baileys": "git+https://github.com/souravkl11/Baileys.git",
     "@whiskeysockets/baileys": "6.4.0",
     "chalk": "^5.3.0",
-    "crypto-js": "^4.1.1",
+    "crypto-js": "^4.2.0",
     "express": "^4.18.2",
     "pastebin-js": "^1.0.6",
     "path": "^0.12.7",
